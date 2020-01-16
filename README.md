@@ -1,4 +1,4 @@
-#Thesis on Shor's Quantum algorithm to find discrete logarithm
+### Thesis on Shor's Quantum algorithm to find discrete logarithm
 This is my bachelor degree thesis. It was my first attempt with Q# and I didn't have a computer strong enough to execute the program (I should have seen it coming) so in the code there may be some errors.
 I want to share my work with the hope that it could help someone get in this field as some other works helped me.
 
